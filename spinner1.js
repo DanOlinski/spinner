@@ -26,4 +26,3 @@ const print = function(number) {
 };
   
 print(0);
-
